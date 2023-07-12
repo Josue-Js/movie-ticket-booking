@@ -1,0 +1,168 @@
+{ 
+  "homeList": [
+    {
+      "title": "now playing",
+      "list": [
+        {
+          "title": "Sonic",
+          "sub_title": "the Hedgehog 2",
+          "description": "After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands.",
+          "image": "https://www.themoviedb.org/t/p/w500/lnKq1Ote36Kln8RhTKboch6NEXs.jpg"
+        },
+        {
+          "title": "Morbius",
+          "sub_title": "",
+          "description": "Dangerously ill with a rare blood disorder, and determined to save others suffering his same fate, Dr. Michael Morbius attempts a desperate gamble. What at first appears to be a radical success soon reveals itself to be a remedy potentially worse than the disease.",
+          "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg"
+        },
+        {
+          "title": "Doctor Strange",
+          "sub_title": "in the Multiverse of Madness",
+          "description": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+          "image": "https://www.themoviedb.org/t/p/w500/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg"
+        },
+        {
+          "title": "Uncharted",
+          "sub_title": "",
+          "description": "A young street-smart, Nathan Drake and his wisecracking partner Victor “Sully” Sullivan embark on a dangerous pursuit of “the greatest treasure never found” while also tracking clues that may lead to Nathan’s long-lost brother.",
+          "image": "https://www.themoviedb.org/t/p/w500/tlZpSxYuBRoVJBOpUrPdQe9FmFq.jpg"
+        },
+        {
+          "title": "Eiffel",
+          "sub_title": "",
+          "description": "The French government is asking Gustave Eiffel to design something spectacular for the 1889 Paris World Fair, but he simply wants to design the subway—until he crosses paths with a mysterious woman from his past.",
+          "image": "https://www.themoviedb.org/t/p/w500/9fCIlbXpRdvE3HW65RueGD3Zmuz.jpg"
+        },
+        {
+          "title": "The Bad Guys",
+          "sub_title": "",
+          "description": "When the Bad Guys, a crew of criminal animals, are finally caught after years of heists and being the world’s most-wanted villains, Mr. Wolf brokers a deal to save them all from prison.",
+          "image": "https://www.themoviedb.org/t/p/w500/7qop80YfuO0BwJa1uXk1DXUUEwv.jpg"
+        } 
+      ]
+    },
+    {
+      "title": "coming soon",
+      "list": [
+        {
+          "title": "Black Panther",
+          "sub_title": "Wakanda Forever",
+          "description": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death. As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
+          "image": "https://scontent.fldb4-1.fna.fbcdn.net/v/t1.6435-9/118766239_1190663777972236_4217123962981033131_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=x2mnIL1hy9sAX982HL3&_nc_ht=scontent.fldb4-1.fna&oh=00_AfAnL1ZUa3gxL6cnJAH8LOZzGAJhZkVSaYG1Flf7RdafXQ&oe=64C55752"
+        },
+        {
+          "title": "Aquaman",
+          "sub_title": "Wakanda Forever",
+          "description": "Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm's half-human, half-Atlantean brother and true heir to the throne.",
+          "image": "https://images.justwatch.com/poster/182992009/s592/aquaman-2.webp"
+        },
+        {
+          "title": "Avatar",
+          "sub_title": "The Way of Water",
+          "description": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+          "image": "https://www.themoviedb.org/t/p/w500/1yppMeTNQwDrzaUH4dRCx4mr8We.jpg"
+        },
+        {
+          "title": "Thor",
+          "sub_title": "Love and Thunder",
+          "description": "After his retirement is interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods, Thor Odinson enlists the help of King Valkyrie, Korg, and ex-girlfriend Jane Foster, who now wields Mjolnir as the Mighty Thor. Together they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher’s vengeance and stop him before it’s too late.",
+          "image": "https://www.themoviedb.org/t/p/w500/cOkx3uu5FVgC902Q6Y3MxLpBWbX.jpg"
+        },
+        {
+          "title": "Jurassic World",
+          "sub_title": "Dominion",
+          "description": "Four years after Isla Nublar was destroyed, dinosaurs now live—and hunt—alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators ona planet they now share with history's most fearsome creatures.",
+          "image": "https://www.91smarttech.com/uploads/images/2022/05/image_750x_62753c699ac9a.jpg"
+        },
+        {
+          "title": "Black Adam",
+          "sub_title": "",
+          "description": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods—and imprisoned just as quickly—Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+          "image": "https://cdna.artstation.com/p/assets/images/images/029/677/104/large/universegfx-black-adam-dwayne-johnson-poster.jpg?1598310248"
+        }
+      ]
+    },
+    {
+      "title": "top movies",
+      "list": [
+        {
+          "title": "The Batman",
+          "sub_title": "",
+          "description": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+          "image": "https://www.themoviedb.org/t/p/w500/74xTEgt7R36Fpooo50r9T25onhq.jpg"
+        },
+        {
+          "title": "Father Stu",
+          "sub_title": "",
+          "description": "The true-life story of boxer-turned-priest. When an injury ends his amateur boxing career, Stuart Long moves to Los Angeles to find money and fame. While scraping by as a supermarket clerk, he meets Carmen, a Sunday school teacher who seems immune to his bad-boy charm. Determined to win her over, the longtime agnostic starts going to church to impress her. However, a motorcycle accident leaves him wondering if he can use his second chance to help others, leading to the surprising realization that he's meant to be a Catholic priest.",
+          "image": "https://www.themoviedb.org/t/p/w500/pLAeWgqXbTeJ2gQtNvRmdIncYsk.jpg"
+        },
+        {
+          "title": "Norbourg",
+          "sub_title": "",
+          "description": "The story of Vincent Lacroix, a businessman convicted of defrauding thousands of investors and embezzling over $130 million in mid-2000s Quebec, Canada. Inspector and auditor Éric Asselin is mandated to monitor the activities of the Norbourg firm. Literally fascinated by the audacity of Vincent Lacroix, the investigator leaves his post and becomes his right hand man. Norbourg then thwarts the investigations and checks by embezzling hundreds of millions of dollars. But the party can't last forever when the company is surrounded from all sides.",
+          "image": "https://www.themoviedb.org/t/p/w500/kgT44Z9qJYULo4YHPiDBpa1pKFf.jpg"
+        },
+        {
+          "title": "The Lost City",
+          "sub_title": "",
+          "description": "Reclusive author Loretta Sage writes about exotic places in her popular adventure novels that feature a handsome cover model named Alan. While on tour promoting her new book with Alan, Loretta gets kidnapped by an eccentric billionaire who hopes she can lead him to the ancient city's lost treasure that featured in her latest story. Alan, determined to prove he can be a hero in real life and not just on the pages of her books, sets off to rescue her.",
+          "image": "https://www.themoviedb.org/t/p/w500/1hkHS8bRC37bn1Zn1yr7VBjLyX5.jpg"
+        },
+        {
+          "title": "Rabbit Academy",
+          "sub_title": "Mission Eggpossible",
+          "description": "Max, a city rabbit, reaches his goal of joining the master class for Easter rabbits but when the magical golden egg turns black, Max and his friends must act to save Easter being taken over by a family of foxes.",
+          "image": "https://www.themoviedb.org/t/p/w500/vQ1T6sgP7V1T5kLjKvpC9uv7Glg.jpg"
+        },
+        {
+          "title": "Fast X",
+          "sub_title": "",
+          "description": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+          "image": "https://www.themoviedb.org/t/p/w500/fiVW06jE7z9YnO4trhaMEdclSiC.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Fan favorites",
+      "list": [
+        {
+          "title": "Animais Fantásticos",
+          "sub_title": "Coleção",
+          "description": "Os filmes de Fantastic Beasts são uma série de fantasia baseada e inspirada no livro mencionado nos romances de Harry Potter pelo escritor britânico J. K. Rowling. Colocado na mesma franquia de Wizarding World, eles seguem as aventuras de Newt Scamander, um auto-proclamado magizoologista, juntamente com Porpentina 'Tina' Goldstein, um auror de MACUSA.",
+          "image": "https://www.themoviedb.org/t/p/w500/oqLzqCb2old88cVuXS0SGMHkP7Z.jpg"
+        },
+        {
+          "title": "Transformers",
+          "sub_title": " O Despertar das Feras",
+          "description": "Transformers: O Despertar das Feras traz mais uma aventura épica pelo universo dos transformers. Ambientada nos anos 1990, o filme apresentará os Maximals, Predacons e Terrorcons à batalha existente na Terra entre Autobots e Decepticons.",
+          "image": "https://www.themoviedb.org/t/p/w500/zEqwfO5R2LrrLgV61xm8M9TmNTG.jpg"
+        },
+        {
+          "title": "Guardiões da Galáxia",
+          "sub_title": "Vol: 3",
+          "description": "Peter Quill, que ainda está a recuperar da perda de Gamora, tem que reunir a sua equipa para defender o universo e proteger um dos seus. Uma missão que, se não for concluída com sucesso, pode levar ao fim dos Guardiões como os conhecemos.",
+          "image": "https://www.themoviedb.org/t/p/w500/4yycSPnchdNAZirGkmCYQwTd3cr.jpg"
+        },
+        {
+          "title": "Missão: Impossível",
+          "sub_title": "Acerto de Contas Parte 1",
+          "description": "Ethan Hunt e sua equipe embarcam em sua missão mais perigosa: rastrear uma nova arma aterrorizante que ameaça toda a humanidade antes que caia em mãos erradas. Com o controle do futuro e o destino do mundo em jogo e as forças sombrias do passado de Ethan se aproximando, uma corrida mortal ao redor do globo começa. Confrontado por um inimigo misterioso e todo-poderoso, Ethan é forçado a considerar que nada pode importar mais do que sua missão – nem mesmo a vida daqueles com quem ele mais se importa.",
+          "image": "https://www.themoviedb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg"
+        },
+        {
+          "title": "Indiana Jones",
+          "sub_title": "A Relíquia do Destino",
+          "description": "Encontrando-se em uma nova era, aproximando-se da aposentadoria, Indy luta para se encaixar em um mundo que parece tê-lo superado. Mas quando os tentáculos de um mal muito familiar retornam na forma de um antigo rival, Indy deve colocar seu chapéu e pegar seu chicote mais uma vez para garantir que um antigo e poderoso artefato não caia nas mãos erradas.",
+          "image": "https://www.themoviedb.org/t/p/w500/9EnfMH0nTPCna87Mh3G8Q6W2wze.jpg"
+        },
+        {
+          "title": "Homem-Aranha",
+          "sub_title": " Através do Aranhaverso",
+          "description": "Miles Morales retorna para o próximo capítulo da saga do Aranhaverso, uma aventura épica que transportará o Homem-Aranha em tempo integral e amigável do bairro do Brooklyn através do Multiverso para unir forças com Gwen Stacy e uma nova equipe de Homens-Aranha para enfrentar com um vilão mais poderoso do que qualquer coisa que eles já encontraram.",
+          "image": "https://www.themoviedb.org/t/p/w500/7NnNxaMQeD72po0n3DwyGL4WpBJ.jpg"
+        }
+      ]
+    }
+  ]
+}
