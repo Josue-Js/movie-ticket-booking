@@ -1,6 +1,6 @@
 # Movie Ticket Booking
 
-⚠️ Ui make by: Sourasith 
+⚠️ Ui make by: [Sourasith](https://www.figma.com/community/file/1102953368834419129/Movie-Ticket-Booking-App-Design) 
 > [view Ui](https://www.figma.com/community/file/1102953368834419129/Movie-Ticket-Booking-App-Design)
 
 ![Preview](/screenshots/banner.png)
