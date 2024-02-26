@@ -1,9 +1,16 @@
 # Movie Ticket Booking
+<br/>
 
-⚠️ Ui make by: [Sourasith](https://www.figma.com/community/file/1102953368834419129/Movie-Ticket-Booking-App-Design) 
-> [view Ui](https://www.figma.com/community/file/1102953368834419129/Movie-Ticket-Booking-App-Design)
 
-![Preview](/screenshots/banner.png)
+<center>
+<img src="./screenshots/Screenshot_1708916686.png" alt="drawing" width="400" />
+</center>
+
+
+# Sobre
+
+Um simple app de compra de ingresso usado onde você pode escolhe o filme, um sessão e um asseto, foi desenvolvido utilizado react native.   
+
 
 
 # Tecnologias
@@ -19,16 +26,33 @@
 * [react-native-svg-transformer](https://github.com/kristerkari/react-native-svg-transformer)
 
 
-# How To use
+# Design do Projeto
 
-1. Clone this repository
-* > git clone https://github.com/Josue-Js/movie-ticket-booking
+* UI foi feita por [Sourasith](https://www.figma.com/community/file/1102953368834419129/Movie-Ticket-Booking-App-Design)
+* Visualizar [Ui](https://www.figma.com/community/file/1102953368834419129/Movie-Ticket-Booking-App-Design)
 
-2. Go repository
-* > cd movie-ticket-booking
 
-3. install dependencies
-* >yarn or npm install 
+# Como Usar
 
-4. execute app
-* > npx expo start
+### Clone this repository
+```sh
+git clone https://github.com/Josue-Js/movie-ticket-booking
+```
+
+### ir ao repositório
+
+```sh 
+cd movie-ticket-booking
+```
+
+### instalar dependencies
+
+```sh 
+yarn or npm install 
+```
+
+### executar projeto
+
+```sh
+yarn dev
+```
