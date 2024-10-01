@@ -2,10 +2,6 @@
 <br/>
 
 
-<center>
-<img src="./screenshots/Screenshot_1708916686.png" alt="drawing" width="400" />
-</center>
-
 
 # Sobre
 
